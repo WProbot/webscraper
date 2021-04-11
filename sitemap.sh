@@ -3,7 +3,8 @@
 #
 # sitemap.sh  0.1
 #
-
+# sitemap index url = site.txt first line
+#
 
   mkdir -p xml
 
